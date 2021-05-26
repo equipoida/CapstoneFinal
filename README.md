@@ -43,7 +43,7 @@
 
 **2.2 프로젝트 구조**
 
--  ![구조도](/Users/gimhanbich/Desktop/CapstoneDesign/구조도.png)
+-  ![구조도](https://user-images.githubusercontent.com/48209166/119610245-e173bc00-be33-11eb-9049-bff562263993.png)
 
  **2.3 관련기술** 
 
