@@ -43,7 +43,7 @@
 
 **2.2 프로젝트 구조**
 
--  ![구조도](https://user-images.githubusercontent.com/48209166/119610245-e173bc00-be33-11eb-9049-bff562263993.png)
+ ![구조도](https://user-images.githubusercontent.com/48209166/119610245-e173bc00-be33-11eb-9049-bff562263993.png)
 
  **2.3 관련기술** 
 
@@ -87,4 +87,4 @@
 
 **3.1 역할 분담**   
 
-* * ![image-20210526145753074](/Users/gimhanbich/Library/Application Support/typora-user-images/image-20210526145753074.png)
+ ![역할분담](https://user-images.githubusercontent.com/48209166/119610518-534c0580-be34-11eb-9bc8-20ff24697c5e.png)
