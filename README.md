@@ -62,6 +62,7 @@
   - MySql for Excel
 - Python
 - Kakao map API
+- crawling 코드 활용 https://github.com/catSirup/naver_kin_crawling/blob/master/project.py
 
 **2.4 개발도구**  
 
@@ -88,3 +89,6 @@
 **3.1 역할 분담**   
 
  ![역할분담](https://user-images.githubusercontent.com/48209166/119610518-534c0580-be34-11eb-9bc8-20ff24697c5e.png)
+ 
+ 
+**
