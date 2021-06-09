@@ -93,8 +93,8 @@
  
 ### 4. 소스코드
 **4.1 소스코드**
- Crawling - https://github.com/equipoida/capstone
- Android - https://github.com/equipoida/capstoneAndroid
- Web(Backend) - https://github.com/equipoida/capstoneWeb
- Web(Frontend) - https://github.com/equipoida/capstoneReact
+- Crawling - https://github.com/equipoida/capstone
+- Android - https://github.com/equipoida/capstoneAndroid
+- Web(Backend) - https://github.com/equipoida/capstoneWeb
+- Web(Frontend) - https://github.com/equipoida/capstoneReact
 
